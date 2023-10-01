@@ -1,0 +1,4 @@
+//Converstion of vlue 
+let number=33;
+let stringNumber=String(number);
+console.log(typeof stringNumber);
